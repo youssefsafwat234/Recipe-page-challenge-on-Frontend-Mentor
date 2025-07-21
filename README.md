@@ -29,8 +29,15 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop ScreenShot
+
 ![Desktop Screenshot](./screenshots/image-desktop.png)
-![Mobile Screenshot](./screenshots/mobile.png)
+
+#### Mobile ScreenShot
+
+<p align='center'>
+  <img  src="./screenshots/mobile.png"/>
+</p>
 
 ### Links
 
