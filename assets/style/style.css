@@ -27,7 +27,7 @@ body {
 }
 
 .parent {
-    width: 700px;
+    width: 900px;
     margin: 0 auto;
     height: 70%;
     background-color: var(--white);
